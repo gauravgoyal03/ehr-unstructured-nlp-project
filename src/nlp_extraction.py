@@ -1,1 +1,0 @@
-# Placeholder for NLP extraction using Vertex AI
